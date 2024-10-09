@@ -3,9 +3,8 @@
 ![image](https://github.com/user-attachments/assets/b7f81f7a-8bee-4979-a735-dd2a8ee2650e)
 <h1>Promoting Domain Controller</h1>
 <ul>
-  <li>
-    
-  </li>
+  <li>DC_2024 - Domain Controller VM with Oracle Virtualbox</li>
+  <li>Active Directory</li>
 </ul>
 
 <p>
