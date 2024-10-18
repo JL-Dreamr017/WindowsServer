@@ -2,7 +2,6 @@
 
 
 
-![UVU](https://github.com/user-attachments/assets/a1928c8d-d359-4dab-86d1-b73cc15274b6)
 
 
 
