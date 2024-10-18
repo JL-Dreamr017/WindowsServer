@@ -1,7 +1,6 @@
 <h1>Windows Server 2022</h1>
 
-<h2>I really had done some labs that are exactly as IT administrator and I am repliacting labs at Utah Valley University.  The class name is Windows Server Administration</h2>
-<p>I could not find some labs I took and I did purchase from Cengage to show I am not lying. </p>
+
 
 ![UVU](https://github.com/user-attachments/assets/a1928c8d-d359-4dab-86d1-b73cc15274b6)
 
